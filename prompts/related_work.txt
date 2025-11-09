@@ -1,1 +1,5 @@
+Compare Papers A, B, and C on methodology, datasets, metrics, 
+and key findings. Produce a structured comparison table.
+Cite page numbers for each comparison.
+If any claim cannot be supported by the sources, state "insufficient evidence".
 
