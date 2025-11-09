@@ -1,1 +1,5 @@
+id,scenario,claims_checked,claims_correct,citation_accuracy,time_saved_min,notes
+E01,exam prep,10,9,90%,25,"One formula simplified"
+E02,research summary,12,11,92%,30,"One weak citation"
+E03,lecture analysis,8,8,100%,20,"No issues"
 
