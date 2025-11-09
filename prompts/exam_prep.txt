@@ -1,1 +1,5 @@
+Summarise Weeks 1–3 lecture slides into a one-page study guide.
+Include 5 MCQs with answers. 
+Cite slide numbers for every key point. 
+If information is not available in the slides, state "insufficient evidence".
 
